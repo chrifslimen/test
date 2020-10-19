@@ -1,1 +1,3 @@
-transfer-learning-Resnet50/* linguist-vendored
+*.py linguist-detectable=true
+*.ipynd linguist-detectable=true
+*.java linguist-detectable=false
